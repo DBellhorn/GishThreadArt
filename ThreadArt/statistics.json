@@ -1,0 +1,74 @@
+[
+  {
+    "Id": 0,
+    "StartTime": "2021-08-09T15:51:29.3064627-05:00",
+    "EndTime": "2021-08-09T15:51:29.3104516-05:00",
+    "TotalSeconds": 0,
+    "TotalMinutes": 0,
+    "TotalHours": 0,
+    "LineCount": 1
+  },
+  {
+    "Id": 1,
+    "StartTime": "2021-08-09T15:53:04.5699047-05:00",
+    "EndTime": "2021-08-09T15:53:04.5699047-05:00",
+    "TotalSeconds": 0,
+    "TotalMinutes": 0,
+    "TotalHours": 0,
+    "LineCount": 1
+  },
+  {
+    "Id": 2,
+    "StartTime": "2021-08-09T15:53:30.5763841-05:00",
+    "EndTime": "2021-08-09T15:53:30.5763841-05:00",
+    "TotalSeconds": 0,
+    "TotalMinutes": 0,
+    "TotalHours": 0,
+    "LineCount": 1
+  },
+  {
+    "Id": 3,
+    "StartTime": "2021-08-09T16:32:11.0557803-05:00",
+    "EndTime": "2021-08-09T16:34:06.6383957-05:00",
+    "TotalSeconds": 0,
+    "TotalMinutes": 0,
+    "TotalHours": 0,
+    "LineCount": 500
+  },
+  {
+    "Id": 4,
+    "StartTime": "2021-08-09T16:36:55.5901997-05:00",
+    "EndTime": "2021-08-09T16:52:34.8744707-05:00",
+    "TotalSeconds": 909.71405359999994,
+    "TotalMinutes": 15.161900893333334,
+    "TotalHours": 0.2526983482222222,
+    "LineCount": 4383
+  },
+  {
+    "Id": 5,
+    "StartTime": "2021-08-14T16:57:58.1688015-05:00",
+    "EndTime": "2021-08-14T16:58:44.5705432-05:00",
+    "TotalSeconds": 46.401741699999995,
+    "TotalMinutes": 0.77336236166666672,
+    "TotalHours": 0.012889372694444444,
+    "LineCount": 3483
+  },
+  {
+    "Id": 6,
+    "StartTime": "2021-08-17T20:45:57.2483205-05:00",
+    "EndTime": "2021-08-17T20:46:38.7597353-05:00",
+    "TotalSeconds": 41.511414799999997,
+    "TotalMinutes": 0.69185691333333332,
+    "TotalHours": 0.011530948555555556,
+    "LineCount": 3098
+  },
+  {
+    "Id": 7,
+    "StartTime": "2021-08-17T20:47:57.1937607-05:00",
+    "EndTime": "2021-08-17T20:48:41.3904843-05:00",
+    "TotalSeconds": 44.196723599999999,
+    "TotalMinutes": 0.73661206000000001,
+    "TotalHours": 0.012276867666666667,
+    "LineCount": 3098
+  }
+]
